@@ -1,0 +1,5 @@
+signal_id,phase,detector_type,date,left_axis_max,rows_written,filename,status,note
+7162,2,Lane-By-Lane Count,2025-10-13,300.0,24,left_turn_gap_7162_phase_2_lane_by_lane_count_20251013.jpg,OK,axis_ocr=300;blue_cols=1149
+7162,4,Lane-By-Lane Count,2025-10-13,100.0,24,left_turn_gap_7162_phase_4_lane_by_lane_count_20251013.jpg,OK,axis_ocr=100;blue_cols=1082
+7162,6,Lane-By-Lane Count,2025-10-13,300.0,24,left_turn_gap_7162_phase_6_lane_by_lane_count_20251013.jpg,OK,axis_ocr=300;blue_cols=1150
+7162,8,Lane-By-Lane Count,2025-10-13,100.0,24,left_turn_gap_7162_phase_8_lane_by_lane_count_20251013.jpg,OK,axis_ocr=100;blue_cols=1150
